@@ -40,6 +40,7 @@
     1.  Diodo rectificador
     2.  Diodo de respuesta rápida
     3.  Puente rectificador
+    4.  Como protección en una carga inductiva
 15. Diodo zener
 16. LED
     1.  Caracteristicas de un LED
@@ -49,15 +50,20 @@
     5.  Led infrarrojo
 17. El transistor
     1.  Transistor como un switch
+    2.  2N2222, BC548
         1.  Controlando un Relay a 5V y 12V
+        2.  Controlando LEDs
+        3.  Arrancando un motor DC
+        4.  Puente H
 18. Proyectos electronicos
     1.  Display de 7 segmentos gigante
     2.  Lampara de leds a 127VAC
-    3.  
+    3.  Fuente sin transformador
+    4.  Fuente lineal
 
 **Anexo**
 
 - Simbología electrónica
 
 
-TODO: Parte 2: Capacitores, bobinas, sensores, fototransistor, laser, MOC, Matriz de LEDs
+TODO: Parte 2: Capacitores, bobinas, sensores, fototransistor, laser, MOC, Matriz de LEDs, transformador
